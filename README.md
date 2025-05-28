@@ -28,12 +28,6 @@ This AI Agent acts as a basic **retrieval-augmented generation (RAG)** system. I
 - Python 3.9+  
 - API Keys for **Groq** (LLM) & **OpenWeatherMap**  
 
-### **🔹 1️⃣ Clone the Repository**  
-```bash
-git clone https://github.com/dutta-sujoy/ai_agents.git
-cd AI-Agents/Simple-AI-Agent
-```
-
 ### **🔹 2️⃣ Install Dependencies**  
 ```bash
 pip install -r requirements.txt
