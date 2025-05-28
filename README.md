@@ -73,14 +73,3 @@ python main.py
 | "Calculate 15 * 9 + 6" | 🧮 Calculator | "Result: 141" |
 
 ---
-
-## **Preview**  
-
-
-https://github.com/user-attachments/assets/1e7603c1-3270-48a3-97f6-a20d5bea4091
-
-
-
----
-
-🚀 Happy Coding! 🎯  
